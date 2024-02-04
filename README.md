@@ -5,7 +5,7 @@ I'm Jesse 'Pincay' Jezzay97</br>
 <img src="https://komarev.com/ghpvc/?username=jessepincay&style=flat-square&color=blue" alt=""/>
 </div>
 
-#
+
 ### :man_technologist: About Me :
 - :electron: I like to compile and learn as a hobby
 - :iphone:  Currently supported devices <b>Xiaomi 11T Pro (Vili), Mi 9T (Davinci), </b>
@@ -19,5 +19,5 @@ I'm Jesse 'Pincay' Jezzay97</br>
 ![Rank](https://github-readme-stats.vercel.app/api/?username=jessepincay&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6&custom_title=Rank&card_width=467&rank_icon=default)
 
 ### :writing_hand: My support groups
-📢 https://t.me/builds_as_vili
-📢 https://t.me/As_Builds
+- 📢 https://t.me/builds_as_vili 
+- 📢 https://t.me/As_Builds
